@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<markers>
+   <marker id="1" name="Bohemian Bicycles" address="5602 E Linden Street, Tucson, AZ" lat="32.2451199" lng="-110.8736518" type="School" url="framebuildingschool.com" email="davebohm@bohemianbicycles.com" />
+   <marker id="2" name="MEECH Custom Bicycles" address="59 Baypoint Ct, Mountain Home, AR 72653" lat="36.3868120" lng="-92.3050660" type="Framebuilder" url="meechcustombicycles.com" email="meech151@hotmail.com" />
+   <marker id="3" name="Black Cat Bicycles" address="103 Village Dr, Aptos, CA 95003" lat="36.9787930" lng="-121.9016568" type="Framebuilder" url="blackcatbicycles.com" email="blackcatbikes@gmail.com" />
+   <marker id="5" name="CALFEE Design" address="681 Beach Dr, La Selva Beach, CA 95076" lat="36.9117455" lng="-121.8382765" type="Framebuilder" url="calfeedesign.com&#xD;&#xA;" email="" />
+   <marker id="4" name="CALLETI Cycles" address="104 High Rd, Santa Cruz, CA 95060" lat="36.9558307" lng="-122.0499293" type="Framebuilder" url="caletticycles.com" email="info@caletticycles.com" />
+   <marker id="6" name="Blacksmith Bikes" address="Kweekweg 14 &#xD;&#xA;7315AS Apeldoorn &#xD;&#xA;The Netherlands" lat="52.2237337" lng="5.9534197" type="Framebuilder" url="blacksmith-bikes.nl" email="info@blacksmith-bikes.nl" />
+   <marker id="7" name="Fitz Cyclez" address="Santa Rosa, California" lat="38.4404290" lng="-122.7140000" type="Framebuilder" url="fitzcyclez.com" email="" />
+   <marker id="8" name="Frances Cycles" address="Santa Cruz, CA" lat="36.9741171" lng="-122.0300000" type="Framebuilder" url="francescycles.com" email="MUIRJOSHUA@GMAIL.COM" />
+   <marker id="9" name="Holand Cycles" address="7928 Convoy Ct, San Diego, CA 92111" lat="32.8355617" lng="-117.1497609" type="Framebuilder" url="hollandcycles.com" email="info@hollandcycles.com" />
+   <marker id="10" name="Hunter Cycles" address="Davenport, CA 95017" lat="37.0135000" lng="-122.1960000" type="Framebuilder" url="huntercycles.com" email="rick@huntercycles.com" />
+   <marker id="11" name="Low Bicycles" address="650 Florida St F, San Francisco, CA 94110" lat="37.7612794" lng="-122.4113317" type="Framebuilder" url="lowbicycles.com" email="info@lowbicycles.com" />
+   <marker id="12" name="Mandaric" address="810 N Twin Oaks Valley Rd #131, San Marcos, CA 92069" lat="33.1535528" lng="-117.1633621" type="Framebuilder" url="mandaric.com" email="SALES@MANDARIC.COM" />
+   <marker id="13" name="MAP bicycles" address="200 Ryan Ave #200, Chico, CA 95973" lat="39.8047999" lng="-121.8571213" type="Framebuilder" url="mapbicycles.com" email="info@mapbicycles.com" />
+   <marker id="14" name="Rex Cycles" address="1811 E St, Sacramento, CA 95811" lat="38.5830634" lng="-121.4796002" type="Framebuilder" url="rexcycles.com" email="" />
+   <marker id="15" name="Rock Lobster Cycles" address="2533 Mission St # D, Santa Cruz, CA 95060" lat="36.9601161" lng="-122.0508186" type="Framebuilder" url="rocklobstercycles.com" email="paul@rocklobstercycles.com" />
+   <marker id="16" name="Silva Cycles" address="901 Camden Ave #6A, Campbell, CA 95008" lat="37.2740873" lng="-121.9496105" type="Framebuilder" url="silvacycles.com" email="bronson@silvacycles.com" />
+   <marker id="17" name="Siren Bicycles" address="54380 N Circle Dr, Idyllwild, CA 92549" lat="33.7464077" lng="-116.7122025" type="Framebuilder" url="sirenbicycles.com" email="" />
+   <marker id="18" name="Steven Potts Bicycles" address="Petaluma, CA" lat="38.2324170" lng="-122.6366524" type="Framebuilder" url="stevepottsbicycles.com" email="steve@stevepottsbicycles.com" />
+   <marker id="19" name="Stinner Frameworks" address="148 Aero Camino, Goleta, CA 93117" lat="34.4330839" lng="-119.8482527" type="Framebuilder" url="stinnerframeworks.com" email="" />
+   <marker id="20" name="Soul Craftbikes" address="Petaluma, CA" lat="38.2326867" lng="-122.6375107" type="Framebuilder" url="soulcraftbikes.com" email="" />
+   <marker id="21" name="Sycip" address="Sonoma County, CA" lat="38.2918000" lng="-122.4580000" type="Framebuilder" url="sycip.com" email="jeremyb@sycip.com" />
+   <marker id="22" name="Tallerico Cycles" address="Lodi, CA" lat="38.1341477" lng="-121.2722194" type="Framebuilder" url="tallericocycles.com" email="info@tallericocycles.com" />
+   <marker id="23" name="Alchemy bikes" address="7700 Cherry Creek S Dr, Denver, CO 80231" lat="39.6809409" lng="-104.8990198" type="Framebuilder" url="alchemy.bike" email="alchemy@alchemybicycles.com" />
+   <marker id="25" name="Boo Bicycles" address=" 1750 Laporte Avenue, Fort Collins, CO 80521" lat="40.5892676" lng="-105.1078184" type="Framebuilder" url="boobicycles.com" email="info@boobicycles.com" />
+   <marker id="26" name="Chocolate Spokes" address="2801 N Downing St, Denver, CO 80205" lat="39.7571968" lng="-104.9736204" type="Framebuilder" url="chocolatespokes.com" email="" />
+   <marker id="27" name="da Vinci Tandems" address="1264 South Jason Street&#xD;&#xA;Denver, Colorado 80223" lat="39.6938169" lng="-104.9988101" type="Framebuilder" url="davincitandems.com" email="" />
+   <marker id="28" name="Funk Cycles" address="2895 South Raritan Street,&#xD;&#xA;Englewood, CO 80110" lat="39.6644018" lng="-105.0090492" type="Framebuilder" url="funkcycles.com" email="info@funkcycles.com" />
+   <marker id="29" name="Gallus Cycles" address="Denver, CO" lat="39.7556020" lng="-104.9909377" type="Framebuilder" url="galluscycles.com" email="jeremy@galluscycles.com" />
+   <marker id="30" name="Gangl Custom Cycles" address="16015 W 4th Ave, Golden, CO 80401" lat="39.7221530" lng="-105.1804436" type="Framebuilder" url="ganglcustomcycles.com" email="Richard@GanglCustomCycles.com" />
+   <marker id="31" name="Kent Eriksen Cycles" address="1136 Yampa St, Steamboat Springs, CO 80487" lat="40.4878402" lng="-106.8396737" type="Framebuilder" url="kenteriksen.com" email="customers@kenteriksen.com" />
+   <marker id="32" name="Moonmen Bikes" address="1304 DUFF DRIVE, UNIT 12 FORT COLLINS, COLORADO UNITED STATES 80524" lat="40.5909948" lng="-105.0521373" type="Framebuilder" url="moonmenbikes.com" email="TODD@MOONMENBIKES.COM" />
+   <marker id="33" name="Mosaic Bespoke Bicycles" address="2450 Central Ave, Unit L Boulder CO, 80301" lat="40.0240051" lng="-105.2178121" type="Framebuilder" url="mosaiccycles.com" email="info@mosaiccycles.com" />
+   <marker id="34" name="Paketa Bicycles" address="54 Hummingbird Ln, Golden, CO 80403" lat="39.9198587" lng="-105.3657506" type="Framebuilder" url="paketabike.com" email="sales@paketabike.com" />
+   <marker id="35" name="Reeb Cycles" address="600 S Airport Rd, Longmont, CO 80503" lat="40.1511897" lng="-105.1539293" type="Framebuilder" url="reebcycles.com" email="reebme@reebcycles.com" />
+   <marker id="36" name="Rene Herse Bicycles" address="4949 Broadway # 103, Boulder, CO 80304" lat="40.0648989" lng="-105.2835051" type="Framebuilder" url="boulderbicycle.bike" email="reneherse@comcast.net" />
+   <marker id="37" name="Victoria Cycles" address="248 Shavano Ave, Salida, CO 81201" lat="38.5388897" lng="-106.0013604" type="Framebuilder" url="victoriacycles.com" email="dave@victoriacycles.com" />
+   <marker id="38" name="Zinn Cycles" address="7437 S. Boulder Rd.&#xD;&#xA;Boulder CO 80303" lat="39.9869241" lng="-105.1784934" type="Framebuilder" url="zinncycles.com" email="sales@zinncycles.com" />
+   <marker id="39" name="Wilco Cycleworks" address="Hershey, PA" lat="40.2820000" lng="-76.6540000" type="Framebuilder" url="wilcocycleworks.com" email="wilcocycleworks@gmail.com" />
+   <marker id="40" name="Snyder Cycles" address="2382 Main St, Tucker, GA 30084" lat="33.8547575" lng="-84.2154205" type="Framebuilder" url="snydercycles.com" email="WHATSUP@SNYDERCYCLES.COM" />
+   <marker id="41" name="Alliance Bicycles" address="Hailey, ID, United States" lat="43.5190000" lng="-114.3150000" type="Framebuilder" url="alliancebicycles.com" email="erik@alliancebicycles.com" />
+   <marker id="42" name="Kelson Bikes" address="2684 S 2000 W, Rexburg, ID 83440" lat="43.7910961" lng="-111.8150009" type="Framebuilder" url="kelsonbikes.com" email="brian@kelsonbikes.com" />
+   <marker id="43" name="Legacy Frameworks" address="1048 W 37th St, Chicago, IL 60609" lat="41.8272421" lng="-87.6528222" type="Framebuilder" url="legacyframeworks.com" email="" />
+   <marker id="44" name="Shamrock Cycles" address="Indianapolis, IN 46220" lat="39.7670000" lng="-86.1750000" type="Framebuilder" url="lugoftheirish.com" email="tim@lugoftheirish.com" />
+   <marker id="45" name="Roark Cycles" address="136 N. Green St., Brownsburg, IN 46112" lat="39.8457277" lng="-86.3981733" type="Framebuilder" url="roarkcycles.com" email="sales@roarkcycles.com" />
+   <marker id="46" name="Alex Meade Bikeworks" address="Shelburne Falls, MA, United States" lat="42.6043778" lng="-72.7400742" type="Framebuilder" url="alexmeade.com" email="" />
+   <marker id="47" name="Don Walker Cycles" address="4104 Grimes Cove | Buckner, KY 40010" lat="38.3656190" lng="-85.4608383" type="Framebuilder" url="donwalkercycles.com" email="don@donwalkercycles.com" />
+   <marker id="48" name="Bishop Bikes" address="Maryland, United States" lat="39.0457549" lng="-76.6412712" type="Framebuilder" url="bishopbikes.com" email="baltimess265@yahoo.com" />
+   <marker id="49" name="Firefly Bicycles" address="117 Boston St, Boston, MA 02125" lat="42.3255758" lng="-71.0592779" type="Framebuilder" url="fireflybicycles.com" email="kevin@fireflybicycles.com" />
+   <marker id="50" name="Geekhouse Bikes" address="50 Terminal St #700, Charlestown, MA 02129" lat="42.3824445" lng="-71.0607586" type="Framebuilder" url="geekhousebikes.com" email="Marty@geekhousebikes.com" />
+   <marker id="51" name="Parlee Cycles" address="69 Federal St, Beverly, MA 01915" lat="42.5508536" lng="-70.8853749" type="Framebuilder" url="parleecycles.com" email="info@parleecycles.com" />
+   <marker id="52" name=" Royal H Cycles " address="50 Terminal Street&#xD;&#xA;Building 1, Suite 700&#xD;&#xA;Boston, MA 02129&#xD;&#xA;&#xD;&#xA;" lat="42.3820600" lng="-71.0610000" type="Framebuilder" url="royalhcycles.com" email="bryan@royalhcycles.com" />
+   <marker id="53" name="Seven Cycles" address="125 Walnut St # 101, Watertown, MA 02472" lat="42.3651671" lng="-71.1704866" type="Framebuilder" url="sevencycles.com" email="" />
+   <marker id="54" name="Zanconato Custom Cycles" address="9 Main Street, Suite LL1B&#xD;&#xA;Sutton, MA 01590" lat="42.0931148" lng="-71.7455239" type="Framebuilder" url="cycling.zanconato.com" email="info@zanconato.com" />
+   <marker id="55" name="616 Bicycle" address="Marquette, MI" lat="46.5470000" lng="-87.3950000" type="Framebuilder" url="616fab.com" email="" />
+   <marker id="56" name="Quiring Cycles" address="8736 N. Hwy. US-31, Free Soil, MI 49411" lat="44.1142641" lng="-86.2799852" type="Framebuilder" url="quiringcycles.net" email="SQUIRING@SBCGLOBAL.NET" />
+   <marker id="57" name="Anderson Custom Bicycles" address="Saint Paul, MN" lat="44.9530000" lng="-93.0890000" type="Framebuilder" url="andersoncustombicycles.com" email="andersoncustombicycles@gmail.com" />
+   <marker id="58" name="Appleman" address="Minneapolis, MN, United States" lat="44.9800000" lng="-93.2500000" type="Framebuilder" url="applemanbicycles.com" email="matt@applemanbicycles.com" />
+   <marker id="198" name="Meerglas" address="Berlin" lat="52.5071260" lng="13.4733570" type="Framebuilder" url="www.meerglas.org" email="tom@meerglas.org" />
+   <marker id="59" name="Clockwork Bikes" address="4315 Douglas Ave.&#xD;&#xA;Golden Valley, MN 55416" lat="44.9667320" lng="-93.3340340" type="Framebuilder" url="clockworkbikes.com" email="joel@clockworkbikes.com" />
+   <marker id="60" name="Curt Goodrich Bicycles" address="2010 E Hennepin Ave # 28, Minneapolis, MN 55413" lat="44.9910936" lng="-93.2243918" type="Framebuilder" url="curtgoodrich.com" email="info@curtgoodrich.com" />
+   <marker id="61" name="Fec Cycles" address="St. Louis, MO" lat="38.6210000" lng="-90.1820000" type="Framebuilder" url="fecycles.com" email="jeff@fecycles.com" />
+   <marker id="62" name="Thrive Cycles" address="Missouri, United States" lat="37.9640000" lng="-91.8300000" type="Framebuilder" url="thrive-cycles.com" email="thrivecycles@gmail.com" />
+   <marker id="63" name="Boedie Cycles" address="845 Wisconsin Ave, Whitefish, MT 59937 " lat="48.4240564" lng="-114.3406347" type="Framebuilder" url="boediecycles.com" email="boecycle@gmail.com" />
+   <marker id="64" name="David Kirk Frameworks" address="329 Little Wolf Road&#xD;&#xA;Bozeman, MT 59715" lat="45.7559470" lng="-111.0607170" type="Framebuilder" url="" email="info@kirkframeworks.com" />
+   <marker id="65" name="Sklar Bikes" address="605 N Wallace Ave, Bozeman, MT 59715" lat="45.6859367" lng="-111.0287937" type="Framebuilder" url="sklarbikes.com" email="Adam@Sklarbikes.com" />
+   <marker id="66" name="Strong Frames" address="619 S Willson Ave.&#xD;&#xA;Bozeman MT 59715" lat="45.6725470" lng="-111.0391580" type="Framebuilder" url="strongframes.com" email="strong@strongframes.com" />
+   <marker id="67" name="Drummond Cycles" address="24 Caleb Dyer Ln, Enfield, NH 03748" lat="43.6195119" lng="-72.1443925" type="Framebuilder" url="drummondcycles.com" email="drummondco93@gmail.com" />
+   <marker id="68" name="44 Bike Co." address="62 Old Temple Rd, Lyndeborough, NH 03082" lat="42.8929700" lng="-71.8077027" type="Framebuilder" url="44bikes.com" email="khenry@44bikes.com" />
+   <marker id="69" name="Guipago Custom Cycles" address="143 Heather Hill Lane, Goffstown, NH" lat="43.0304507" lng="-71.5908658" type="Framebuilder" url="guipagocycles.com" email="guipagocycles@gmail.com" />
+   <marker id="70" name="Independent Fabrication" address="55 Main Street, #214&#xD;&#xA;Newmarket, NH 03857" lat="43.0802533" lng="-70.9351279" type="Framebuilder" url="ifbikes.com" email="sales@ifbikes.com" />
+   <marker id="71" name="Ted Wojcik Custom Bicycles" address="4 Wilder Dr #10d, Plaistow, NH 03865" lat="42.8593530" lng="-71.1005430" type="Framebuilder" url="tedwojcikcustombicycles.com" email="tedwojcik1@comcast.net " />
+   <marker id="72" name="Vlad Cycles" address="Boonton, New Jersey." lat="40.9040190" lng="-74.4087405" type="Framebuilder" url="vladcycles.com" email="vlad@vladcycles.com" />
+   <marker id="73" name="Weaver Cycle Works" address="Collingswood NJ" lat="39.9181686" lng="-75.0712840" type="Framebuilder" url="weavercycleworks.com" email="weavercycleworks@gmail.com " />
+   <marker id="74" name="Airtight Cycles" address="1205 Manhattan Ave,  Brooklyn NY 11222" lat="40.7386825" lng="-73.9555787" type="Framebuilder" url="airtightcycles.com" email="mathew@airtightcycles.com" />
+   <marker id="75" name="Benjamin Cycles" address="SAN MARCOS, TEXAS" lat="29.8800000" lng="-97.9400000" type="Framebuilder" url="benjamincycles.com" email="" />
+   <marker id="76" name="Ceremony Bikes" address="321 Rutledge St, Brooklyn, NY 11211" lat="40.7057077" lng="-73.9519060" type="Framebuilder" url="ceremonybikes.com" email="info@ceremonybikes.com" />
+   <marker id="77" name="K.Bedford Customs" address="10 S Greenfield Rd&#xD;&#xA;Greenfield Center, New York 12833" lat="43.1127224" lng="-73.8649149" type="Framebuilder" url="kbedfordcustoms.com" email="kbedford.sales@gmail.com " />
+   <marker id="78" name="22. Bicycles" address="Montgomery St W&#xD;&#xA;Toronto, Ontario 12095" lat="43.6495741" lng="-79.5199660" type="Framebuilder" url="22bicycles.com" email="info@22bicycles.com" />
+   <marker id="79" name="Rosko Cycles" address="Brooklyn, New York" lat="40.7290000" lng="-73.9500000" type="Framebuilder" url="rosko.cc" email="" />
+   <marker id="80" name="Squarebuilt Designs" address="868 Myrtle Avenue, Lower Level, Brooklyn, NY 11206, United States." lat="40.6953295" lng="-73.9477188" type="Framebuilder" url="squarebuilt.com" email="us@squarebuilt.com" />
+   <marker id="81" name="Dogwood Cycleworx" address="Bellevue, Washington" lat="47.6101497" lng="-122.2015159" type="Framebuilder" url="dogwoodcycleworx.com" email="Frames@DogwoodCycleworx.com" />
+   <marker id="82" name="Kish Fabrication" address="104R N Carolina Hwy 54 W #237, Carrboro, NC 27510" lat="35.9196501" lng="-79.0997942" type="Framebuilder" url="kishbike.com" email="info@kishbike.com" />
+   <marker id="83" name="Groovy Cycleworks" address="5 Pasture Reach, Suite B&#xD;&#xA;Wooster, Ohio 44691" lat="40.7465778" lng="-81.9108295" type="Framebuilder" url="groovycycleworks.com" email="rody@groovycycleworks.com" />
+   <marker id="84" name="Standridge Cycles" address="15 West Cherry Street&#xD;&#xA;Columbus, OH, 43215&#xD;&#xA;United States" lat="39.9566046" lng="-83.0002145" type="Framebuilder" url="stanridgespeed.com" email="ADAM@STANRIDGESPEED.COM" />
+   <marker id="85" name="Ahearne Cycles" address="108 N Page St, Portland, OR 97227" lat="45.5394838" lng="-122.6672560" type="Framebuilder" url="ahearnecycles.com" email="" />
+   <marker id="86" name="Argonaut Cycles" address="30 Century Drive, Suite 100 Bend, Oregon 97702, Bend, OR 97702" lat="44.0509070" lng="-121.3308663" type="Framebuilder" url="argonautcycles.com" email="CONTACT@ARGONAUTCYCLES.COM" />
+   <marker id="87" name="Bantam Bicycles Works" address="1515 SE Ankeny St, Portland, OR 97214 " lat="45.5223503" lng="-122.6501618" type="Framebuilder" url="bantambicycles.com" email="bantambicycles@gmail.com" />
+   <marker id="88" name="Bike Friday" address="3364 W. 11th Avenue, Eugene, OR 97402 " lat="44.0468900" lng="-123.1422935" type="Framebuilder" url="bikefriday.com" email="info@bikefriday.com" />
+   <marker id="89" name="Co-Motion Cycles" address="4765 Pacific Ave, Eugene, OR 97402" lat="44.0577726" lng="-123.1816409" type="Framebuilder" url="co-motion.com" email="sales@co-motion.com" />
+   <marker id="90" name="De Salvo Custom Cycles" address="255 Helman St # 3, Ashland, OR 97520" lat="42.2026272" lng="-122.7150254" type="Framebuilder" url="desalvocycles.com" email="" />
+   <marker id="91" name="English Cycles" address="Eugene, Oregon, USA" lat="44.0517607" lng="-123.0875261" type="Framebuilder" url="englishcycles.com" email="" />
+   <marker id="92" name="Igleheart Custom Frames" address="108 N Page Street&#xD;&#xA;Portland, Oregon 97227" lat="45.5393944" lng="-122.6667535" type="Framebuilder" url="igleheartcustomframesandforks.com" email="christopher@iglebike.com " />
+   <marker id="93" name="Jones Bicycles" address="101 Sunny Street &#xD;&#xA;Talent, Oregon, 97540" lat="42.2467147" lng="-122.7894492" type="Framebuilder" url="jonesbikes.com" email="contact@jonesbikes.com" />
+   <marker id="94" name="Joe Bike" address="2039 SE Cesar E Chavez Blvd&#xD;&#xA;Portland, OR 97214" lat="45.5081867" lng="-122.6229765" type="Framebuilder" url="joe-bike.com" email="info@joe-bike.com" />
+   <marker id="95" name="Hartley Cycles" address="1a, 1 E Dulwich Grove, London SE22 9BA, UK" lat="51.4594585" lng="-0.0766120" type="Framebuilder" url="hartleycycles.com" email="info@hartleycycles.com" />
+   <marker id="96" name="Metrofiets" address="2323 N WILLIAMS AVE , PORTLAND, OREGON 97227" lat="45.5398175" lng="-122.6671624" type="Framebuilder" url="metrofiets.com" email="info@metrofiets.com " />
+   <marker id="97" name="Bread Winner Cycles" address="2323 N Williams Ave, Portland, OR 97227" lat="45.5398063" lng="-122.6669173" type="Framebuilder" url="breadwinnercycles.com" email="info@breadwinnercycles.com" />
+   <marker id="98" name="Renovo Bikes" address="2005 SE 8th Ave, Portland, OR 97214" lat="45.5085000" lng="-122.6581000" type="Framebuilder" url="renovobikes.com" email="info@renovobikes.com" />
+   <marker id="99" name="Signal Cycles" address="60 N Page St, Portland, OR 97227" lat="45.5394791" lng="-122.6670321" type="Framebuilder" url="signalcycles.com" email="nate@signalcycles.com" />
+   <marker id="101" name="Ti Cycles" address="15707 NW McNamee Rd, Portland, OR 97231" lat="45.6363800" lng="-122.8553640" type="Framebuilder" url="ticycles.com" email="info@ticycles.com" />
+   <marker id="102" name="Tonic Fab" address="1709 SE Powell Blvd&#xD;&#xA;Portland, OR 97202" lat="45.5002351" lng="-122.6484015" type="Framebuilder" url="tonicfab.com" email="tony@tonicfab.com" />
+   <marker id="103" name="Speedvagen" address="1711 SE Powell Blvd, Portland, OR 97202" lat="45.5002377" lng="-122.6482625" type="Framebuilder" url="speedvagen.com" email="payments@vanillabicycles.com" />
+   <marker id="104" name="Elite Velo Solutions" address="16 Northfield Dr, Downingtown, PA 19335" lat="40.0515183" lng="-75.7982002" type="Framebuilder" url="elitevelosolutions.com" email="info@elitevelosolutions.com" />
+   <marker id="105" name="Engin Cycles" address="7837 Germantown Ave, Philadelphia, PA 19118" lat="40.0696036" lng="-75.1994732" type="Framebuilder" url="engincycles.com" email="drew@engincycles.com " />
+   <marker id="106" name="Oswald Cycle Works " address="7 N Main St, Mansfield, PA 16933" lat="41.8072570" lng="-77.0785280" type="Framebuilder" url="oswaldcycleworks.com" email="tom@oswaldcycleworks.com" />
+   <marker id="107" name="Spectrum Cycles" address="1190 Dorney Road. Breinigsville, PA 18031" lat="40.5331039" lng="-75.6498586" type="Framebuilder" url="spectrum-cycles.com" email="spectrum.tom@gmail.com" />
+   <marker id="108" name="Winter Bicycles" address="Centre County, Pennsylvania, United States" lat="40.8700000" lng="-77.8300000" type="Framebuilder" url="winterbicycles.com" email="info@winterbicycles.com" />
+   <marker id="109" name="Yokeiseasy" address="Lancaster, PA, United States" lat="40.0370000" lng="-76.3000000" type="Framebuilder" url="yokeiseasy.com" email="" />
+   <marker id="110" name="Chapman Cycles" address="Warwick, Rhode Island 02905&#xD;&#xA;" lat="41.7700000" lng="-71.4042000" type="Framebuilder" url="chapmancycles.com" email="brian@chapmancycles.com" />
+   <marker id="111" name="Linskey" address="3911 Volunteer Dr Chattanooga, Tennessee 37416" lat="35.0706507" lng="-85.1988973" type="Framebuilder" url="lynskeyperformance.com" email="" />
+   <marker id="112" name="Crumpton Cycles" address="Austin, TX, United States" lat="30.2600000" lng="-97.7400000" type="Framebuilder" url="crumptoncycles.com" email="" />
+   <marker id="113" name="Daltex Custom Bicycles" address="1217 Fort Worth Ave, Dallas, TX 75208" lat="32.7671390" lng="-96.8407975" type="Framebuilder" url="daltex.bike" email="info@daltex.bike" />
+   <marker id="114" name="Majaco Bicycles" address="2203 Iva Ln, Austin, TX 78704" lat="30.2462208" lng="-97.7739924" type="Framebuilder" url="majacobicycles.com" email="mark@majacobicycles.com" />
+   <marker id="115" name=" Paramour Bicycles" address="Austin, TX" lat="30.2740000" lng="-97.7400000" type="Framebuilder" url="paramourbicycles.com" email="" />
+   <marker id="116" name="Tomii Cycles" address="Austin, TX" lat="30.2830000" lng="-97.7800000" type="Framebuilder" url="tomiicycles.com" email="" />
+   <marker id="117" name="Blaze Bicycles" address="477 W Juan Ct, Moab, UT 84532" lat="38.5831380" lng="-109.5600743" type="School" url="blazebicycles.com" email="info@blazebicycles.com" />
+   <marker id="118" name="Frank Wadelton" address="Bellows Falls, Town of Rockingham, VT, United States" lat="43.1300000" lng="-72.4400000" type="Framebuilder" url="frankthewelder.com" email="frankthewelder@comcast.net" />
+   <marker id="119" name="333 Fab." address="3425 Stone Way N, Seattle, WA 98103" lat="47.6493019" lng="-122.3430168" type="Framebuilder" url="333fab.com" email="max@333fab.com" />
+   <marker id="120" name="Cycles Lamoure" address="1684 Finn Hall Rd&#xD;&#xA;Port Angeles, Washington 98362" lat="48.1108050" lng="-123.2387870" type="Framebuilder" url="cycleslamoure.com" email="mitch@lamourebikes.com" />
+   <marker id="121" name="Saffron Frameworks" address="Harrington Way (off Warspite Road) Woolwich London SE18 5NR" lat="51.4946621" lng="0.0445125" type="Framebuilder" url="saffronframeworks.com" email="enquiries@saffronframeworks.com" />
+   <marker id="122" name="Elephant Bikes" address="2001 E 17TH AVE,  SPOKANE WA 99203" lat="47.6400770" lng="-117.3809860" type="Framebuilder" url="elephantbikes.com" email="info@elephantbikes.com" />
+   <marker id="123" name="Mahall Bikeworks" address="Tri-Cities, WA, United States" lat="46.2340000" lng="-119.2230000" type="Framebuilder" url="mahallbikeworks.com" email="info@mahallbikeworks.com" />
+   <marker id="124" name="Mjolnir Cycles" address="16412 38th Ave E&#xD;&#xA;Tacoma, WA 98446" lat="47.1066415" lng="-122.3797559" type="Framebuilder" url="mjolnircycles.com" email="info@mjolnircycles.com" />
+   <marker id="125" name="Hampsten Cycles" address="4200 NE 105th St, Seattle, WA 98125" lat="47.7051804" lng="-122.2824685" type="Framebuilder" url="hampsten.com" email="steve@hampsten.com" />
+   <marker id="126" name="Rodriguez Cycles" address="5627 University Way NE, Seattle WA" lat="47.6703246" lng="-122.3133657" type="Framebuilder" url="rodbikes.com" email="info@rodbikes.com" />
+   <marker id="127" name="Stevenson Custom Bicycles" address="3800 B Lorne st SE, Tumwater, WA 98501" lat="47.0135544" lng="-122.8914222" type="Framebuilder" url="stevensoncustombikes.com" email="stevensoncustombikes@gmail.com" />
+   <marker id="128" name="Thompson Custom Bicycles" address="3520 Sunset Beach Dr NW, Olympia, WA 98502" lat="47.0955750" lng="-122.9559860" type="Framebuilder" url="thompsoncustombicycles.com" email="" />
+   <marker id="129" name="Ellis Cycles" address="7029 S North Cape Rd, Franklin, WI 53132" lat="42.9178690" lng="-88.0592730" type="Framebuilder" url="elliscycles.com" email="dave@elliscycles.com" />
+   <marker id="130" name="Gunnar Cycles" address="816 W. Bakke Ave. &#xD;&#xA;Waterford, WI 53185 " lat="42.7555065" lng="-88.2262686" type="Framebuilder" url="gunnarbikes.com" email="" />
+   <marker id="131" name="Sotherland Custom Bicycles" address="1155 West Main Street&#xD;&#xA;Whitewater, WI 53190" lat="42.8345550" lng="-88.7515597" type="Framebuilder" url="sotherlandbikes.com" email="john@sotherlandbikes.com" />
+   <marker id="132" name="Waterford Bikes" address="816 Bakke Ave, Waterford, WI 53185" lat="42.7555065" lng="-88.2262686" type="Framebuilder" url="waterfordbikes.com" email="" />
+   <marker id="133" name="Baum Cycles" address="7 Seabright St, North Shore VIC 3214, Australia" lat="-38.0989707" lng="144.3692676" type="Framebuilder" url="baumcycles.com" email="handcrafted@baumcycles.com" />
+   <marker id="134" name="Gellie Custom Bikes" address="KANGAROO GROUND, VIC 3097&#xD;&#xA;AUSTRALIA" lat="-37.6860000" lng="145.2160000" type="Framebuilder" url="gelliecustombikeframes.com.au" email="info@gelliecustombikeframes.com.au" />
+   <marker id="135" name="Hillbrick Bicycles" address="12/141 Hartley Rd, Smeaton Grange NSW 2567, Australia" lat="-34.0402368" lng="150.7576624" type="Framebuilder" url="hillbrick.com.au" email="sales@hillbrick.com.au" />
+   <marker id="136" name="Kumo Cycles" address="Canberra, Australia" lat="-35.2850000" lng="149.1230000" type="Framebuilder" url="kumocycles.com" email="kumocycles@gmail.com" />
+   <marker id="137" name="Jaegher" address="Bruggestraat 120, 8755 Ruiselede, Belgium" lat="51.0447345" lng="3.3884001" type="Framebuilder" url="jaegher.com" email="ateliers@jaegher.com" />
+   <marker id="138" name="Noble Cycles" address="Avenue de la Gare 99a, 6720 Habay, Belgium" lat="49.7191233" lng="5.6368204" type="Framebuilder" url="noblecycles.tumblr.com" email="noblecyclesbelgium@gmail.com" />
+   <marker id="139" name="Dekerf Cycle Innovations" address="5900 #6 Road, unit 160&#xD;&#xA;Richmond, British Columbia V6V 1Z1" lat="49.1723436" lng="-123.0685230" type="Framebuilder" url="dekerf.com" email="info@dekerf.com" />
+   <marker id="140" name="Naked Bicycles" address="1039 Gowlland Harbour Rd.&#xD;&#xA;Quadra Island, BC, Canada" lat="50.0966534" lng="-125.2471120" type="Framebuilder" url="nakedbicycles.com" email="info@timetogetnaked.com" />
+   <marker id="141" name="True North Cycles" address="Belwood, Ontario, N0B1J0, Canada" lat="43.7700000" lng="-80.3100000" type="Framebuilder" url="truenorthcycles.com" email="truenorthcycles@gmail.com" />
+   <marker id="142" name="Festka s.r.o." address="Jana Masaryka 28 &#xD;&#xA;120 00 Praha&#xD;&#xA;Czech Republic" lat="50.0714484" lng="14.4385223" type="Framebuilder" url="festka.com" email="mira@festka.com" />
+   <marker id="143" name="Big Forest Frameworks" address="Wollestr. 46, D-14482 Potsdam" lat="52.3971770" lng="13.0879355" type="School" url="bigforestframeworks.com" email="info@bigforestframeworks.com" />
+   <marker id="144" name="Marschall Framework" address="Dortmund, Germany" lat="51.5100000" lng="7.4652900" type="Framebuilder" url="marschall-framework.de" email="" />
+   <marker id="145" name="Monk Bicycle" address="Alte Dorfstrae 1A 38723 Seesen Kirchberg, Germany" lat="51.8555900" lng="10.1539700" type="Framebuilder" url="monkbicycle.com" email="info@monkbicycle.com" />
+   <marker id="146" name="Kobo Akamatsu" address="Oyamadacho, Kawachinagano-shi, Osaka Prefecture, Japan" lat="34.4590000" lng="135.5540000" type="Framebuilder" url="kobo-akamatsu.jp" email="mail@kobo-akamatsu.jp" />
+   <marker id="147" name="Cherubim" address="2-33-14 Negishi Machida-shi, Tokyo, 194-0038" lat="35.5759348" lng="139.4155294" type="Framebuilder" url="cherubim.jp" email="info@cherubim.jp" />
+   <marker id="148" name="Dobbat's Bicycle Studio" address="348 Higashiinbach? Nitanda, Owariasahi-shi, Aichi-ken 488-0833" lat="35.2090578" lng="137.0269659" type="Framebuilder" url="dobbats.com" email="dobbats@isis.ocn.ne.jp" />
+   <marker id="149" name="Equilibrium Cycle Works" address="3 Chome-24 Yaguchi, ?ta-ku, T?ky?-to 146-0093" lat="35.5589016" lng="139.6930732" type="Framebuilder" url="equilibriumcycleworks.com" email="info@equilibriumcycleworks.com" />
+   <marker id="150" name="Emmeakka" address="5-79 Tsugaru stone from Miyako city, Iwate prefecture" lat="39.5790000" lng="141.9300000" type="Framebuilder" url="emmeakka.net" email="emmeakkamh@yahoo.co.jp" />
+   <marker id="151" name="Kualis Cycles" address="Wakayama Prefecture, Japan" lat="34.2420000" lng="135.1900000" type="Framebuilder" url="kualis.cc" email="kualiscycles@gmail.com" />
+   <marker id="152" name="Level Cycle" address="1-2-4 Higashihisa Arakawa-ku Tokyo 116 - 0012" lat="35.7380120" lng="139.7720000" type="Framebuilder" url="level-cycle.com" email="" />
+   <marker id="153" name="Nakagawa Cycle Works" address="572-0075 Osaka Prefecture Neyagawa City Kuzuhara 2-14-34 " lat="34.7690000" lng="135.6000000" type="Framebuilder" url="nakagawa-cw.co.jp" email="info@nakagawa-cw.co.jp" />
+   <marker id="154" name="Toyo Frame" address="582 - 0027 &#xD;&#xA;Osaka Prefecture Kashiwara-shi 1000 - 80 Nobushimachi Kashiwabara" lat="34.5560000" lng="135.6260000" type="Framebuilder" url="toyoframe.com" email="" />
+   <marker id="155" name="Arcane" address="Kilcullen Road&#xD;&#xA;Naas Town&#xD;&#xA;Co. Kildare&#xD;&#xA;Ireland" lat="53.2000000" lng="-6.6660000" type="Framebuilder" url="bicycledesigncentre.com" email="brendan@bicycledesigncentre.com" />
+   <marker id="156" name="Alan Bikes" address="Via San Matteo 7&#xD;&#xA;35030 TRAMBACCHE DI VEGGIANO" lat="45.4108939" lng="11.7244781" type="Framebuilder" url="alanbike.it" email="alfa@alanbike.it" />
+   <marker id="157" name="Bressan" address="via Dossi, 31&#xD;&#xA;37040 S.Gregorio di Veronella, Verona" lat="45.3386380" lng="11.3089530" type="Framebuilder" url="bressanbike.it" email="info@bressanbike.it" />
+   <marker id="158" name="Chesini" address="Via San Paolo 8 - 37129 Verona" lat="45.4389647" lng="11.0029123" type="Framebuilder" url="chesini.it" email="info@chesini.it" />
+   <marker id="159" name="Crisp Titanium" address="Strada Provinciale Palazzo del Pero, 52043 Castiglion Fiorentino AR, Italy" lat="43.3457265" lng="11.9171499" type="Framebuilder" url="crisptitanium.com" email="info@crisptitanium.com" />
+   <marker id="160" name="Pedalino Bicycles" address="Lenexa, KS, USA" lat="38.9530000" lng="-94.7330000" type="Framebuilder" url="pedalinobicycles.com" email="julie@pedalinobicycles.com" />
+   <marker id="161" name="Peacock Groove" address="2718 E 27th St.&#xD;&#xA;Minneapolis, MN 55406" lat="44.9541055" lng="-93.2322303" type="Framebuilder" url="peacockgroove.bike" email="Peacockgroove@gmail.com" />
+   <marker id="162" name="Richard Sachs Cycles" address="Warwick, Massachusetts" lat="42.6820000" lng="-72.3380000" type="Framebuilder" url="richardsachs.com" email="therichardsachs@gmail.com" />
+   <marker id="163" name="Bilenky Cycle Works" address="5319 N 2nd St, Philadelphia, PA 19120" lat="40.0319078" lng="-75.1262179" type="Framebuilder" url="bilenky.com" email="artistry@bilenky.com" />
+   <marker id="164" name="Metal Guru" address="New Paltz, New York" lat="41.7470000" lng="-74.0860000" type="School" url="metalguruschool.com" email="metalguru@viciouscycles.com" />
+   <marker id="165" name="Von Hof Cycles" address="720 Monroe Street, E310A, Hoboken, NJ 07030" lat="40.7469495" lng="-74.0380045" type="Framebuilder" url="vonhofcycles.com" email="info@vonhofcycles.com" />
+   <marker id="166" name="Vicious Cycles" address="205 S Ohioville Rd, New Paltz, NY 1256" lat="41.7177166" lng="-74.0680828" type="Framebuilder" url="viciouscycles.com" email="info@viciouscycles.com" />
+   <marker id="167" name="Rookie Bike Works" address="299-1 Pungnap 2(i)-dong, Songpa-gu, Seoul, South Korea" lat="37.5342156" lng="127.1116362" type="Framebuilder" url="rookeybike.com" email="rookeybike@gmail.com" />
+   <marker id="168" name="Moots" address="2545 Copper Ridge Drive, Steamboat Springs, CO 80487" lat="40.5063393" lng="-106.8549886" type="Framebuilder" url="moots.com" email="INFO@MOOTS.COM" />
+   <marker id="169" name="Mars Cycles" address="Moss Beach, CA" lat="37.5270000" lng="-122.5130000" type="Framebuilder" url="marscycles.com" email="" />
+   <marker id="170" name="Formigli" address="Florence Italy" lat="43.7690000" lng="11.2550000" type="Framebuilder" url="formigli.com" email="" />
+   <marker id="171" name="Legend by Bertoletti" address="Via Lega Lombarda 102 - 24040 Bonate Sopra,(BG) - Italy" lat="45.6848573" lng="9.5740036" type="Framebuilder" url="legendbybertoletti.it" email="info@legendbybertoletti.it" />
+   <marker id="172" name="Pavarin" address="Via Vespucci 19&#xD;&#xA;21100 Calcinate del Pesce, Varese" lat="45.8142167" lng="8.7615537" type="Framebuilder" url="pavarin.com" email="info@pavarin.com" />
+   <marker id="173" name="Simoncini" address="50050 Gambassi Terme (FI) Italia" lat="43.5824815" lng="10.9703422" type="Framebuilder" url="simoncinitelaibiciclette.it" email="simoncinitelaibiciclette.49@gmail.com" />
+   <marker id="174" name="Somec" address="Via S. Martino, 1/A, S. Agata sul Santerno (RA)ITALY" lat="44.4353422" lng="11.8765736" type="Framebuilder" url="somec.com" email="somec@somec.com" />
+   <marker id="175" name="Vetta" address="via Tunisi 29 - 35125 PADOVA" lat="45.4234240" lng="11.8723957" type="Framebuilder" url="vetta.it" email="info@vetta.it" />
+   <marker id="176" name="Wittson" address="Svajones g. 8, Klaipeda, Lithuania LT-94105" lat="55.6869808" lng="21.1869306" type="Framebuilder" url="wittson.com" email="hello@wittson.com" />
+   <marker id="177" name="Jeffson Bikes" address="Rotorua, New Zealand" lat="-38.1360000" lng="176.2400000" type="Framebuilder" url="jeffsonbikes.co.nz" email="jeff@kiwibikes.co.nz" />
+   <marker id="178" name="Achielle" address="Brugsesteenweg 203 &#xD;&#xA;8740 Egem (Pittem) &#xD;&#xA;Belgie" lat="51.0137945" lng="3.2336502" type="Framebuilder" url="achielle.be" email="info@dija-oostcolor.eu " />
+   <marker id="179" name="Legor Cicli" address="Barcelona, Spain" lat="41.3850639" lng="2.1734035" type="Framebuilder" url="legorcicli.it" email="info@legorcicli.it" />
+   <marker id="180" name="Xclusive Bikes" address="Rua Xuncal, 9 bajo.&#xD;&#xA;Sta. Cristina - Oleiros 15172&#xD;&#xA;A Coruna - Espana" lat="43.3371150" lng="-8.3758809" type="Framebuilder" url="xclusivebikes.com" email="info@xclusivebikes.com" />
+   <marker id="181" name="Bamboo Bicycle Club" address="Autumn Road Studios, London E3 2TT" lat="51.5353984" lng="-0.0201571" type="School" url="bamboobicycleclub.org" email="info@bamboobicycleclub.org" />
+   <marker id="182" name="Yamaguchi" address="Rifle, CO 81650" lat="39.5347023" lng="-107.7831198" type="School" url="yamaguchibike.com" email="yamaguchibike@gmail.com" />
+   <marker id="183" name="United Bicycle Institute" address="401 Williamson Way&#xD;&#xA;Ashland, Oregon 97520" lat="42.2002978" lng="-122.7053282" type="School" url="bikeschool.com" email="" />
+   <marker id="184" name="United Bicycle Institute" address="3961 N. Williams Ave.Ste 100&#xD;&#xA;Portland Oregon 97227" lat="45.5516208" lng="-122.6670419" type="School" url="bikeschool.com" email="" />
+   <marker id="185" name="Bicycles by Design" address="Coalport, Telford TF8 7HT" lat="52.6187222" lng="-2.4500424" type="School" url="bicycles-by-design.co.uk" email="info@bicycles-by-design.co.uk" />
+   <marker id="186" name="fahrradbaukurse" address="Hofwiesenstrasse 200&#xD;&#xA;CH-8057 Zurich" lat="47.4025224" lng="8.5359255" type="School" url="fahrradbaukurse.ch" email="kontakt@fahrradbaukurse.ch" />
+   <marker id="187" name="Condor Cycles" address="49-53 Gray's Inn Road&#xD;&#xA;London" lat="51.5220860" lng="-0.1139507" type="Framebuilder" url="condorcycles.com" email="customer.service@condorcycles.com" />
+   <marker id="188" name="Dave Yates Cycles" address="Ivy House Farm, Hawthorn Hill, Lincoln, LN4 4UW" lat="53.0802441" lng="-0.1813737" type="School" url="daveyatescycles.co.uk" email="enquiries@daveyatesframes.co.uk" />
+   <marker id="189" name="Demon Frameworks" address="SOUTHAMPTON" lat="50.9090000" lng="-1.4043000" type="Framebuilder" url="demonframeworks.com" email="tom@demonframeworks.com" />
+   <marker id="190" name="Donhou Bicycles" address="Hackney Wick, London" lat="51.5400000" lng="-0.0230000" type="Framebuilder" url="donhoubicycles.com" email="tom@donhoubicycles.com" />
+   <marker id="191" name="Downland Cycles" address="2, Stone Cottages, Pett Bottom Rd, Lynsore Bottom, Canterbury CT4 6EG, UK" lat="51.2033852" lng="1.0980018" type="School" url="downlandcycles.co.uk" email="julie@downlandcycles.co.uk" />
+   <marker id="192" name="Enigma" address="13 Apex Park&#xD;&#xA;Diplocks Way&#xD;&#xA;Hailsham&#xD;&#xA;East Sussex" lat="50.8591676" lng="0.2481803" type="Framebuilder" url="enigmabikes.com" email="info@enigmabikes.com" />
+   <marker id="193" name="Feather Cycles" address="Yorkshire" lat="53.9910000" lng="-1.5410000" type="Framebuilder" url="feathercycles.com" email="info@feathercycles.com" />
+   <marker id="194" name="Rourke Framesets" address="194 Waterloo Road, Burslem, Stoke on Trent, ST6 3HF" lat="53.0393365" lng="-2.1913760" type="Framebuilder" url="rourke.biz" email="info@rourke.cc" />
+   <marker id="195" name="Shand Cycles " address="3b Nasmyth Court&#xD;&#xA;Livingston, EH54 5EG&#xD;&#xA;Scotland, UK" lat="55.9048385" lng="-3.4970281" type="Framebuilder" url="shandcycles.com" email="contact@shandcycles.com" />
+   <marker id="196" name="Sven Cycles" address="167a Portland Road&#xD;&#xA;Weymouth, Dorset &#xD;&#xA;DT4 9BQ, Great Britain" lat="50.5893581" lng="-2.4723428" type="Framebuilder" url="svencycles.com" email="info@svencycles.com" />
+   <marker id="197" name="Talbot Frameworks" address="5 and 7 Central Hill, London. SE19 1BG" lat="51.4195411" lng="-0.0834414" type="Framebuilder" url="talbotframeworks.co.uk" email="" />
+   <marker id="199" name="Alex Singer" address="53, rue Victor Hugo / Levallois" lat="48.8948409" lng="2.2975326" type="Framebuilder" url="cycles-alex-singer.fr" email="" />
+   <marker id="200" name="Caminade" address="2 rue de la Tramontane &#xD;&#xA;66130 Ille sur Tet - France" lat="42.6703550" lng="2.6151330" type="Framebuilder" url="caminade.eu" email="contact@caminade.eu" />
+   <marker id="201" name="Victoire Cycles" address="49 Rue Victor Hugo&#xD;&#xA;Beaumont, Auvergne, France 63110" lat="45.7501976" lng="3.0880052" type="Framebuilder" url="victoire-cycles.com" email="info@victoire-cycles.com" />
+   <marker id="202" name="Repete Cycles" address="Moravska 27, 120 00 Praha 2" lat="50.0746030" lng="14.4451605" type="Framebuilder" url="repetecycles.com" email="info@repetecycles.com" />
+   <marker id="203" name="Sinble Be" address="Internatni 1599&#xD;&#xA;Chocen, 56501" lat="49.9935523" lng="16.2288932" type="Framebuilder" url="singlebe.com" email="info@singlebe.com" />
+   <marker id="204" name="Devlin Custom Cycles" address="4/5 Activity Cres&#xD;&#xA;Molendinar 4214" lat="-27.9696612" lng="153.3631467" type="Framebuilder" url="facebook.com/devlincc" email="sean@devlincc.com" />
+   <marker id="205" name="Revlrevl cycles" address="Burgdorf, Switzerland" lat="47.0559357" lng="7.6272243" type="Framebuilder" url="revlrevlcycles.ch" email="mail@revlrevlcycles.ch" />
+   <marker id="206" name="August Bicycles" address="Norwich, United Kingdom" lat="52.6308859" lng="1.2973550" type="Framebuilder" url="augustbicycles.cc" email="gav@augustbicycles.cc" />
+   <marker id="207" name="Paulus Quiros " address="Pilot House Wharf,&#xD;&#xA;Swansea Marina,West Glamorgan,SA1 1UN" lat="51.6161082" lng="-3.9312990" type="Framebuilder" url="paulusquiros.co.uk" email="info@paulusquiros.co.uk" />
+   <marker id="208" name="Martelly Frames" address="Hille 217B&#xD;&#xA;8750 Zwevezele" lat="51.0388351" lng="3.2278609" type="Framebuilder" url="martelly.be" email="martelly@skynet.be" />
+   <marker id="209" name="Spino" address="Rua Felix da Cunha, 349&#xD;&#xA;Porto Alegre, RS" lat="-30.0160285" lng="-51.2030488" type="Framebuilder" url="spino.bike" email="spino@spino.bike" />
+   <marker id="210" name="Velo Zephyr " address="2592 Yarmouth Ave Boulder, CO, 80301, United States" lat="40.0579370" lng="-105.2639500" type="Framebuilder" url="velozephyr.com" email="RideVeloZephyr@gmail.com" />
+   <marker id="211" name="Blue Steel Bikes" address="La Crosse, Wisconsin" lat="43.8013556" lng="-91.2395807" type="Framebuilder" url="bluesteelbikes.com" email="bluesteelfab@gmail.com" />
+   <marker id="212" name="Cardoso Cycles" address="Avenida Nhandu, 15&#xD;&#xA;Sao Paulo, Brazil" lat="-23.6074728" lng="-46.6489705" type="Framebuilder" url="cardosocycles.com" email="atendimento@cardosocycles.com" />
+   <marker id="213" name="Republica Bicicletas" address="Gaspar Martins 267, 90220-160 Porto Alegre" lat="-30.0209027" lng="-51.2119573" type="Framebuilder" url="republica.cc" email="fbpavao@republica.cc" />
+   <marker id="214" name="Marino Bike" address="Lima, Peru" lat="-12.0463731" lng="-77.0427540" type="Framebuilder" url="marinobike.com" email="marino@marinobike.com" />
+   <marker id="215" name="Art bike bamboo" address="Porto Alegre, Brasil" lat="-30.0346843" lng="-51.2201475" type="Framebuilder" url="artbikebamboo.com.br" email="artbike@artbikebamboo.com.br  " />
+   <marker id="216" name="Bornia &amp; Cox Cycles" address="Praca Gastao Cruls, 46 - Alto de Pinheiros&#xD;&#xA;&#xD;&#xA;?" lat="-23.5420641" lng="-46.7014205" type="Framebuilder" url="borniaecox.com" email="borniaecox@gmail.com" />
+   <marker id="217" name="Norther Cycles" address=" 5515 NORTH ALBINA AVENUE, PORTLAND" lat="45.5630141" lng="-122.6751403" type="Framebuilder" url="northercycles.com" email="STARMICHAEL@NORTHERCYCLES.COM" />
+   <marker id="218" name="Mawis Bikes" address="Wintringerstrasse 19&#xD;&#xA;66271 Kleinblittersdorf" lat="49.1590000" lng="7.0368100" type="Framebuilder" url="mawis-bikes.com" email="mathias@mawis-bikes.com" />
+   <marker id="219" name="Silver Cat Cycles" address="Rua Julita de Souza Sampaio, 60 Porto Feliz, SP - Brazil" lat="-23.2119916" lng="-47.5145727" type="Framebuilder" url="silvercatcycles.com" email="sergio@silvercatcycles.com" />
+   <marker id="220" name="Klaus Poloni" address="Pedreira, Sao Paulo " lat="-22.7418249" lng="-46.8952876" type="Framebuilder" url="facebook.com/klauswpoloni" email="klauswpoloni@yahoo.it" />
+   <marker id="221" name="Peter Verdone Designs" address="126 Spruce Road, Fairfax" lat="37.9888280" lng="-122.5953430" type="Framebuilder" url="peterverdone.com" email="peterverdone@gmail.com" />
+   <marker id="222" name="Waltworks" address="Park City, UT" lat="40.6460622" lng="-111.4979729" type="Framebuilder" url="waltworks.com" email="waltworks@gmail.com" />
+   <marker id="223" name="Barrow Frame Designs" address="Kirkland Washington" lat="47.6768927" lng="-122.2059833" type="Framebuilder" url="barrowframedesigns.com" email="BarrowFrameDesigns@comcast.net" />
+   <marker id="224" name="Karussell Cycles" address="Trdinova 6, 1236 Trzin, Slovenia " lat="46.1302385" lng="14.5562116" type="Framebuilder" url="karussellcycles.com" email="davidkrevs@gmail.com" />
+</markers>

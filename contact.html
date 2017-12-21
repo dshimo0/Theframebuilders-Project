@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Set character encoding for the document -->
+  <meta charset="utf-8">
+  <!-- Instruct Internet Explorer to use its latest rendering engine -->
+  <meta content="ie=edge" http-equiv="x-ua-compatible">
+  <!-- Viewport for responsive web design -->
+	<meta content="initial-scale=1.0, user-scalable=no" name="viewport">
+  <title>TheFramebuilders - Contact us and be featured on the framebuilders database</title>
+  <!-- meta description -->
+  <meta content="Bicycle framebuilders of all shapes and sizes, framebuilding School and more can be found globally, find custom bicycles companies near!" name="description">
+  <!-- ES NECESARIO ESTO? ver! Control the behavior of search engine crawling and indexing-->
+	<meta content="index,follow" name="robots"><!-- All Search Engines -->
+	<meta content="index,follow" name="googlebot"><!-- Google Specific -->
+ 	<!-- CSS styles -->
+	<link href="styles/map.css" rel="stylesheet" type="text/css">
+	<!-- Contact form js -->
+	<script src="scripts/submitContactForm.js"></script>
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109124591-1">
+	</script>
+	<script>
+	     window.dataLayer = window.dataLayer || [];
+	     function gtag(){dataLayer.push(arguments);}
+	     gtag('js', new Date());
+
+	     gtag('config', 'UA-109124591-1');
+  </script>
+  <!-- Bootstrap -->
+	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <!-- email form -->
+	<script src="scripts/submitContactForm.js">
+	</script>
+</head>
+<body>
+	<!-- NAVBAR -->
+	<nav class="navbar navbar-inverse navbar-toggleable-md pd fixed-top" id="customNav">
+		<button aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarTogglerDemo02" data-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button> <a class="navbar-brand" href="/"><!-- CHANGE THIS -->
+		 <img alt="" src="images/framebuildersLogo.png"></a>
+		<div class="collapse navbar-collapse navbar-inverse" id="navbarTogglerDemo02">
+			<ul class="navbar-nav ml-auto mt-2 mt-md-0">
+				<li class="nav-item">
+					<a class="nav-link" href="index.html#contentAbout">ABOUT</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="contact.html">CONTACT</a>
+				</li>
+      </ul>
+      <!-- search add : create this feature one day...
+      <form class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="text" placeholder="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button> 
+      </form> -->
+		</div>
+	</nav>
+	<div class="container imagenfondo" id="contacto">
+		<div class="row">
+			<div class="col-md-6 col-md-offset-3">
+				<div class="well well-sm modal-body">
+          <p class="statusMsg"></p>
+          <!-- CHECK ACTION. ORIGINALMENTE ESTABA action="" -->
+					<form role="form" class="form-horizontal">
+						
+              <legend class="text-left">CONTACT US</legend> 
+              <!-- Name input-->
+							<div class="form-group">
+								<div class="col-md-8 contactoForm">
+									<input class="form-control" id="inputName" placeholder="Name" type="text">
+								</div>
+              </div>
+              <!-- Email input-->
+							<div class="form-group">
+								<div class="col-md-8 contactoForm">
+									<input class="form-control" id="inputEmail" placeholder="Email" type="text">
+								</div>
+              </div>
+              <!-- Message body -->
+							<div class="form-group">
+								<div class="col-md-8 contactoForm">
+									<textarea class="form-control" id="inputMessage" placeholder="Message" rows="2"></textarea>
+								</div>
+              </div>
+              <!-- Form actions -->
+						
+					
+					</form>
+					
+						<div class="col-md-12 text-left contactoForm">
+							<button class="btn btn-primary btn-md submitBtn" onclick="submitContactForm()" type="button">Submit</button>
+						</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="containerlast">
+		<div class="row">
+			<div class="col-md-12"></div>
+		</div>
+	</div>
+	<footer class="footer contactfooter">
+		<span>©2017 The Framebuilders | </span><a href="index.html">Home</a> <a href="//www.instagram.com/theframebuilders/" target="_blank"><img alt="Instagram" src="images/instaicon.png"></a>
+	</footer>
+</body>
+</html>

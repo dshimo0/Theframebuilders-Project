@@ -1,0 +1,339 @@
+html, body {
+	height: 100%;
+	margin: 0px;
+	/*HIDE HORIZONTAL BAR */
+	overflow-x: hidden;
+}
+
+/*------------------------------------*\
+  NAVBAR
+\*------------------------------------*/
+
+/*change fixed navbar for absolute position */
+.fixed-top {
+	position: absolute !important;
+}
+
+/*Navbar box bottom with rounded corners */
+.collapse.show {
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	margin-top: 3px;
+}
+
+/* change height of top navbar */
+.navbar {
+	height: 60px;
+	background-color: #683732;
+}
+
+/*change color hover links contact and about*/
+#customNav a {
+	color: #fafafa;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+.nav-item>a:hover {
+	color: #E15C26 !important;
+}
+.nav-link {
+	margin-left: 10px;
+}
+
+/*correct toggler positions*/
+.navbar-toggler {
+	margin-top: 4px;
+}
+
+.navbar-brand img {
+	margin-bottom: 4px;
+}
+
+/*resize toggle menu and logo when screen is less than 992  RESIZE INFOWINDOWS*/
+@media (max-width: 992px) {
+	.navbar-brand img {
+		height: 49px;
+		margin-bottom: 0px;
+
+	}
+	.navbar-brand {
+		padding-bottom: 0px !important;
+		padding-top: 0px !important;
+	}
+	.navbar-collapse {
+		background-color: rgba(255, 255, 255, 0.929);
+	}
+	#customNav a {
+		color: #E15C26;
+	}
+	.gm-style-iw {
+		width: auto !important;
+	}
+}
+
+/*------------------------------------*\
+  MAP
+\*------------------------------------*/
+
+.containermap {
+	margin-top: 60px;
+	margin-bottom: 50px;
+	position: relative;
+	overflow: hidden;
+	height: 91.4%;
+}
+#map {
+	width: 100%;
+	height: 100%;
+}
+
+/*Map shadows box styles */
+.containermap i {
+	position: absolute;
+	display: block;
+	box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.3);
+}
+/*Map borders */
+.map-top {
+	top: -5px;
+	left: 0;
+	right: 0;
+	height: 5px;
+}
+.map-right {
+	right: -5px;
+	top: 0;
+	bottom: 0;
+	width: 5px;
+}
+.map-bottom {
+	bottom: -5px;
+	left: 0;
+	right: 0;
+	height: 5px;
+}
+.map-left {
+	left: -5px;
+	top: 0;
+	bottom: 0;
+	width: 5px;
+}
+
+
+/*------------------------------------*\
+ MAP INFOWINDOWS
+\*------------------------------------*/
+
+#iw-container .iw-title {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 22px;
+	font-weight: 400;
+	padding: 10px;
+	background-color: #e15c26;
+	color: white;
+	margin: 0px;
+	border-radius: 2px 2px 0 0;
+	/* In accordance with the rounding of the default infowindow corners. */
+}
+/*Hide info windows close button */
+
+.gm-style-iw+div {
+	display: none;
+}
+.gm-style-iw {
+	width: auto !important;
+	top: 15px !important;
+	left: 0 !important;
+	background-color: #fff;
+	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+	border-radius: 2px 2px 10px 10px;
+}
+.type {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-left: 20px;
+}
+.address {
+	padding-left: 20px;
+}
+/*Info Windows URL */
+.iw-subTitle a {
+	transition: 0.3s color ease;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.urlink {
+	text-align: left;
+	padding-left: 20px;
+	padding-top: 4px;
+}
+.iw-subTitle a:link {
+	color: black;
+}
+.iw-subTitle a:hover {
+	color: #683732;
+	text-decoration: none;
+}
+.iw-title {
+	text-align: center;
+}
+
+/*------------------------------------*\
+  COLUMNS
+\*------------------------------------*/
+
+#contentAbout {
+	padding-top: 70px;
+	margin-top: -70px;
+}
+
+/*HASHTAG */
+.hashtag a {
+    font-size: 25pt;
+    font-weight: 500;
+    color: #e15c26;
+}
+
+.hashtag a:hover {
+    color: #683732;
+    text-decoration: none;
+}
+
+/*------------------------------------*\
+  INSTAGRAM
+\*------------------------------------*/
+
+.igviewer {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background-color: RGBA(29, 31, 32, 0.9);
+}
+.igviewer img {
+	display: block;
+	margin: 1rem auto;
+	height: calc(100vh - 2rem);
+	width: auto;
+	box-shadow: 0px 10px 40px 10px rgba(0, 0, 0, 0.8);
+}
+.igviewer.hidden {
+	display: none;
+}
+.instagram {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+	overflow: hidden;
+	/*width: 1024px;*/
+	margin: 0 auto;
+}
+.instagram .image {
+	background-repeat: none; /*none  to see horizontal and vert photos same size.  "no-repeat" to dont repeat photo  */
+	background-position: center center;
+	background-size: 100%;
+	width: 248px;
+	height: 248px;
+	margin: 9px;
+	overflow: hidden;
+	transition: all 200ms ease;
+	position: relative;
+	cursor: pointer;
+	margin-left: auto;
+	margin-right: auto;
+}
+.instagram .image .caption {
+	display: none;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(225, 91, 38, 0.562);
+	color: #FFF;
+	padding: 1em;
+}
+.instagram .image:hover {
+	background-size: 110%;
+}
+.instagram .image:hover .caption {
+	display: block;
+}
+.container2 a {
+	color: #E15C26;
+	transition: 0.7s color ease;
+}
+.container2 a:hover {
+	color: #683732;
+	text-decoration: none;
+}
+
+/*------------------------------------*\
+  FOOTER
+\*------------------------------------*/
+
+.footer {
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+    font-size: 10pt;
+	background-color: hsla(17, 76%, 52%, 0.639);;
+	color: white;
+}
+
+.footer img {
+	margin-top: 15px;
+	float: right;
+	margin-right: 50px;
+}
+.footer span {
+	margin-left: 20px;
+}
+.footer a {
+	color: white;
+}
+
+/*------------------------------------*\
+  CONTACT PAGE
+\*------------------------------------*/
+
+.text-left {
+	font-size: 12pt;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+.contactfooter {
+	position: fixed;
+	right: 0;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+}
+#contacto {
+	margin-top: 60px;
+}
+/*Align email, message and submit botton */
+.contactoForm {
+	padding-left: 0px;
+}
+.contactoForm button {
+	color: #fff;
+	background-color: #1a9141;
+	border-color: #8c8e90;
+}
+/*Create background image */
+.imagenfondo {
+	background-image: url('../images/bikecontact.png');
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.containerlast {
+	margin-bottom: 60px;
+}
+.form-control {
+	border: 2px solid #e15c26;
+}
